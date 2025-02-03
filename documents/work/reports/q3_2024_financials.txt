@@ -1,1 +1,4 @@
-Let's pretend there is a real financial report in here...
+Gas: $200
+Food: $300
+Rent: $1500
+Utilities: $100
