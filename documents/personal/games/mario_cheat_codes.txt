@@ -8,3 +8,4 @@ KIIOZV: Distort level one
 ZZZLTT: Mario can always throw fireballs
 Ostagal: Makes you move fast
 XYAGP: Enemies throw hammers straight up in the air
+ABCDE: Do stuff
